@@ -69,9 +69,6 @@ The project can be run using Google Colab.
 7. View the generated response. 
  
 ## 🔮 Future Improvements 
-- Deploy the application as a public web application
-- Add user-specific document collections
-- Add automatic exam preparation recommendations
 - Deploy the application as a public web application 
 - Add user-specific document collections 
-- Add automatic exam preparation recommendations        i think this will be good
+- Add automatic exam preparation recommendations
